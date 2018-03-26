@@ -1,9 +1,9 @@
 # Mechamagnets
-A rapid prototyping technique for tactile and functional physical interactive systems.
+A rapid prototyping technique for tactile and functional physical interactive systems via desktop FDM printing and embedded magnets.
 
 _**NOTE** this is a work in progress and is still undergoing heavy editing_
 
-_for questions and feedback, please contact me [here](clement.zheng@colorado.edu)_
+_For questions and feedback, please contact me at clement.zheng@colorado.edu_
 
 ## Videos
 | Video | Link |
