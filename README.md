@@ -1,3 +1,5 @@
+<img src="Misc%20Assets/header.png" width="100%">
+
 # Mechamagnets
 ## A rapid prototyping technique for tactile and functional physical interactive systems via desktop FDM printing and embedded magnets.
 

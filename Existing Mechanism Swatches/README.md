@@ -5,7 +5,7 @@ These different swatches attempt to replicate the look, feel and function of exi
 
 ## Swatch List
 
-| F360 Link | Assembled | Disassembled | Cross Section |
+| Fusion 360 Link | Assembled | Disassembled | Cross Section |
 | --- | --- | --- | --- |
 | Momentary&nbsp;Push&nbsp;Button<br>[Type A](http://a360.co/2ETcFkX) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/X_MomentaryPush.png) |
 | Analog Push Button<br>[Type A](https://a360.co/2IVTaXW) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/X_AnalogPush.png) |
