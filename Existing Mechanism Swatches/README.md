@@ -7,7 +7,7 @@ These different swatches attempt to replicate the look, feel and function of exi
 
 | F360 Link | Assembled | Disassembled | Cross Section |
 | --- | --- | --- | --- |
-| Momentary Push Button<br>[Type A](http://a360.co/2ETcFkX) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/X_MomentaryPush.png) |
+| Momentary&nbsp;Push&nbsp;Button<br>[Type A](http://a360.co/2ETcFkX) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/X_MomentaryPush.png) |
 | Analog Push Button<br>[Type A](https://a360.co/2IVTaXW) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/X_AnalogPush.png) |
 | Toggle Switch<br>[Type A](http://a360.co/2FnV1pF) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/X_ToggleSwitch.png) |
 | Side Toggle<br>[Type A](https://a360.co/2IUgt4k) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/X_SideToggle.png) |
@@ -15,6 +15,17 @@ These different swatches attempt to replicate the look, feel and function of exi
 | Thumbstick<br>[Type A](https://a360.co/2unZAfm) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/X_Thumbstick.png) |
 | Stepped Rotary Input<br>[Type A](http://a360.co/2H2wfbK) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/X_Rotary.png) |
 | Stepped Slider<br>[Type A](http://a360.co/2Fnwxgg) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/X_Slider.png) | 
+
+<br><br>
+
+## 3D printing
+* All STL files were printed with a [Cetus 3D Printer](https://www.cetus3d.com/).
+* Filament used: [Polymaker Polylite PLA](http://www.polymaker.com/shop/polylitetrade/)
+* Printer settings:
+  * Layer height: **0.25mm**
+  * Infill: **15%**
+  * Quality: **Normal**
+  * Raft but no supports
 
 <br><br>
 
