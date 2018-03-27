@@ -1,7 +1,7 @@
 <img src="Misc%20Assets/header.png" width="100%">
 
 # Mechamagnets
-## A rapid prototyping technique for tactile and functional physical interactive systems via desktop FDM printing and embedded magnets.
+## A technique for rapid prototyping tactile and functional physical interactive systems, via desktop FDM printing and embedded magnets.
 
 _**NOTE** this is a work in progress that is undergoing heavy editing.<br>For questions and feedback, please contact Clement at clement.zheng@colorado.edu._
 <br><br><br>
@@ -25,7 +25,7 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 
 <br><br>
 
-## Case study: Momentary Push Button
+## Example: Momentary Push Button
 
 ![Case study schematic](Misc%20Assets/example_schematic.png)
 
@@ -33,7 +33,7 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 ## Work in progress
 
 * **Customizable Tactile Swatches**
-  - Swatches for different mechanisms with variable tactile reponses.
+  - Swatches with variable tactile reponses.
 * **Tactile characterization for Mechamagnets**
   - Characterization of different embedded magnet configurations and their impact on mechanical and perceptual tactile feedback.
   - Parameters: 
