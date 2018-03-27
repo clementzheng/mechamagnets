@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Side Toggle](SideToggle_Assembled.png) | ![Side Toggle](SideToggle_Assembled.png) | ![Side Toggle](X_SideToggle.png) |
+| ![Side Toggle](SideToggle_Assembled.png) | ![Side Toggle](SideToggle_Disassembled.png) | ![Side Toggle](X_SideToggle.png) |
 
 <br>
 

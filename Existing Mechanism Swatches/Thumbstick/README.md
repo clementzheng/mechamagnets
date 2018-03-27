@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Thumbstick](Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick_Assembled.png) | ![Thumbstick](X_Thumbstick.png) |
+| ![Thumbstick](Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick_Disassembled.png) | ![Thumbstick](X_Thumbstick.png) |
 
 <br>
 

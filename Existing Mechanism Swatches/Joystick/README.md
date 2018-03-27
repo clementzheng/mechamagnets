@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Joystick](Joystick_Assembled.png) | ![Joystick](Joystick_Assembled.png) | ![Joystick](X_Joystick.png) |
+| ![Joystick](Joystick_Assembled.png) | ![Joystick](Joystick_Disassembled.png) | ![Joystick](X_Joystick.png) |
 
 <br>
 

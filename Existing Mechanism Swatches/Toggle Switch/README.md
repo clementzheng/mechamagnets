@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Toggle Switch](ToggleSwitch_Assembled.png) | ![Toggle Switch](ToggleSwitch_Assembled.png) | ![Toggle Switch](X_ToggleSwitch.png) |
+| ![Toggle Switch](ToggleSwitch_Assembled.png) | ![Toggle Switch](ToggleSwitch_Disassembled.png) | ![Toggle Switch](X_ToggleSwitch.png) |
 
 <br>
 

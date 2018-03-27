@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Stepped Slider](Slider_Assembled.png) | ![Stepped Slider](Slider_Assembled.png) | ![Stepped Slider](X_Slider.png) |
+| ![Stepped Slider](Slider_Assembled.png) | ![Stepped Slider](Slider_Disassembled.png) | ![Stepped Slider](X_Slider.png) |
 
 <br>
 

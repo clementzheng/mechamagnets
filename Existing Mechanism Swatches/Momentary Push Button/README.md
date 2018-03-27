@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Momentary Push Button](MomentaryButton_Assembled.png) | ![Momentary Push Button](MomentaryButton_Assembled.png) | ![Momentary Push Button](X_MomentaryPush.png) |
+| ![Momentary Push Button](MomentaryButton_Assembled.png) | ![Momentary Push Button](MomentaryButton_Disassembled.png) | ![Momentary Push Button](X_MomentaryPush.png) |
 
 <br>
 

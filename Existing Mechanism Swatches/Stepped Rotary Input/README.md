@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Stepped Rotary Input](Rotary_Assembled.png) | ![Stepped Rotary Input](Rotary_Assembled.png) | ![Stepped Rotary Input](X_Rotary.png) |
+| ![Stepped Rotary Input](Rotary_Assembled.png) | ![Stepped Rotary Input](Rotary_Disassembled.png) | ![Stepped Rotary Input](X_Rotary.png) |
 
 <br>
 
