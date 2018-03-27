@@ -3,7 +3,7 @@
 # Mechamagnets
 ## A rapid prototyping technique for tactile and functional physical interactive systems via desktop FDM printing and embedded magnets.
 
-_**NOTE** this is a work in progress and is still undergoing heavy editing.<br>For questions and feedback, please contact Clement at clement.zheng@colorado.edu._
+_**NOTE** this is a work in progress that is undergoing heavy editing.<br>For questions and feedback, please contact Clement at clement.zheng@colorado.edu._
 <br><br><br>
 
 ## Papers
@@ -21,7 +21,7 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 
 | Folder | Description | Contents
 | --- | --- | --- |
-| **Existing Mechanism Swatches** | _Initial exploration replicating existing physical input mechanisms_ | - STL Files<br>- Cross section diagrams<br>- Bill of materials |
+| [**Existing Mechanism Swatches**](Existing%20Mechanism%20Swatches) | _Initial exploration replicating existing physical input mechanisms_ | - STL Files<br>- Cross section diagrams<br>- Bill of materials |
 
 ## Work in progress
 
