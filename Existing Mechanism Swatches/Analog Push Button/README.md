@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Momentary Push Button](AnalogPush_Assembled.png) | ![Momentary Push Button](AnalogPush_Assembled.png) | ![Momentary Push Button](X_AnalogPush.png) |
+| ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](X_AnalogPush.png) |
 
 **Note:** the disassembled image also illustrates the part orientation for 3D printing (i.e. which face contacts the bed).
 
