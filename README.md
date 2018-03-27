@@ -23,6 +23,13 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 | --- | --- | --- |
 | [**Existing Mechanism Swatches**](Existing%20Mechanism%20Swatches) | _Initial exploration replicating existing physical input mechanisms_ | - STL Files<br>- Cross section diagrams<br>- Bill of materials |
 
+<br><br>
+
+## Case study: Momentary Push Button
+
+![Case study schematic](Misc%20Assets/example_schematic.png)
+
+
 ## Work in progress
 
 * **Customizable Tactile Swatches**
