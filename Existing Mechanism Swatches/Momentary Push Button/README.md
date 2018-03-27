@@ -1,5 +1,11 @@
 # Momentary Push Button
 
+## 3D Model
+
+[**Download 3D model here**](http://a360.co/2ETcFkX)
+
+<br>
+
 ## Images
 
 | Assembled | Disassembled | Cross Section |
