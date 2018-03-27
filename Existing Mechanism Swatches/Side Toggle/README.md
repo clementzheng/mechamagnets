@@ -1,9 +1,9 @@
-# Momentary Push Button
+# Side Toggle
 <br>
 
 ## 3D Model
 
-[**Download 3D Model Type A**](http://a360.co/2ETcFkX)
+[**Download 3D Model Type A**](https://a360.co/2IUgt4k)
 
 <br>
 
@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Momentary Push Button](MomentaryButton_Assembled.png) | ![Momentary Push Button](MomentaryButton_Assembled.png) | ![Momentary Push Button](X_MomentaryPush.png) |
+| ![Side Toggle](SideToggle_Assembled.png) | ![Side Toggle](SideToggle_Assembled.png) | ![Side Toggle](X_SideToggle.png) |
 
 <br>
 
@@ -19,8 +19,9 @@
 
 | Part Name | Quantity | Sample Source |
 | --- | :---: | --- |
-| Button Cap (3D print) | 1 | [Download from repo](Print_MomentaryButton_Cap.stl) |
-| Button Shaft (3D print) | 1 | [Download from repo](Print_MomentaryButton_Shaft.stl) |
+| Button (3D print) | 1 | [Download from repo](Print_SideToggle_Button.stl) |
+| Case Top (3D print) | 1 | [Download from repo](Print_SideToggle_CaseA.stl) |
+| Case Base (3D print) | 1 | [Download from repo](Print_SideToggle_CaseB.stl) |
 | 1/8 x 1/8 Inch Neodymium Rare Earth Cylinder Magnets | 4 | [Total Element](https://totalelement.com/collections/cylinder-magnets/products/1-8-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-100-pack) |
 
 <br>

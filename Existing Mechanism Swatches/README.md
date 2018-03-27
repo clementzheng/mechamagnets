@@ -5,16 +5,16 @@ These different swatches attempt to replicate the look, feel and function of exi
 
 ## Swatch List
 
-| Fusion 360 Link | Assembled | Disassembled | Cross Section |
+| Links (Model/Repo) | Assembled | Disassembled | Cross Section |
 | --- | --- | --- | --- |
-| Momentary&nbsp;Push&nbsp;Button<br>[Type A](http://a360.co/2ETcFkX) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/X_MomentaryPush.png) |
-| Analog Push Button<br>[Type A](https://a360.co/2IVTaXW) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/X_AnalogPush.png) |
-| Toggle Switch<br>[Type A](http://a360.co/2FnV1pF) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/X_ToggleSwitch.png) |
-| Side Toggle<br>[Type A](https://a360.co/2IUgt4k) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/X_SideToggle.png) |
-| Joystick<br>[Type A](https://a360.co/2IVoINM) | ![Joystick](Joystick/Joystick_Assembled.png) | ![Joystick](Joystick/Joystick_Assembled.png) | ![Joystick](Joystick/X_Joystick.png) |
-| Thumbstick<br>[Type A](https://a360.co/2unZAfm) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/X_Thumbstick.png) |
-| Stepped Rotary Input<br>[Type A](http://a360.co/2H2wfbK) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/X_Rotary.png) |
-| Stepped Slider<br>[Type A](http://a360.co/2Fnwxgg) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/X_Slider.png) | 
+| [**Momentary&nbsp;Push&nbsp;Button**](Momentary%20Push%20Button)<br>[Model Type A](http://a360.co/2ETcFkX) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/MomentaryButton_Assembled.png) | ![Momentary Push Button](Momentary%20Push%20Button/X_MomentaryPush.png) |
+| [**Analog Push Button**](Analog%20Push%20Button)<br>[Model Type A](https://a360.co/2IVTaXW) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/AnalogPush_Assembled.png) | ![Analog Push Button](Analog%20Push%20Button/X_AnalogPush.png) |
+| [**Toggle Switch**](Toggle%20Switch)<br>[Model Type A](http://a360.co/2FnV1pF) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/ToggleSwitch_Assembled.png) | ![Toggle Switch](Toggle%20Switch/X_ToggleSwitch.png) |
+| [**Side Toggle**](Side%20Toggle)<br>[Model Type A](https://a360.co/2IUgt4k) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/SideToggle_Assembled.png) | ![Side Toggle](Side%20Toggle/X_SideToggle.png) |
+| [**Joystick**](Joystick)<br>[Model Type A](https://a360.co/2IVoINM) | ![Joystick](Joystick/Joystick_Assembled.png) | ![Joystick](Joystick/Joystick_Assembled.png) | ![Joystick](Joystick/X_Joystick.png) |
+| [**Thumbstick**](Thumbstick)<br>[Model Type A](https://a360.co/2unZAfm) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/Thumbstick_Assembled.png) | ![Thumbstick](Thumbstick/X_Thumbstick.png) |
+| [**Stepped Rotary Input**](Stepped%20Rotary%20Input)<br>[Model Type A](http://a360.co/2H2wfbK) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/Rotary_Assembled.png) | ![Stepped Rotary Input](Stepped%20Rotary%20Input/X_Rotary.png) |
+| [**Stepped Slider**](Stepped%20Slider)<br>[Model Type A](http://a360.co/2Fnwxgg) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/Slider_Assembled.png) | ![Stepped Slider](Stepped%20Slider/X_Slider.png) | 
 
 <br><br>
 

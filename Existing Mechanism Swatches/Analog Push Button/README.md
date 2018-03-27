@@ -3,7 +3,7 @@
 
 ## 3D Model
 
-[**Download 3D model here**](https://a360.co/2IVTaXW)
+[**Download 3D Model Type A**](https://a360.co/2IVTaXW)
 
 <br>
 
@@ -12,8 +12,6 @@
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
 | ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](X_AnalogPush.png) |
-
-**Note:** the disassembled image also illustrates the part orientation for 3D printing (i.e. which face contacts the bed).
 
 <br>
 
@@ -36,3 +34,5 @@
   * Infill: **15%**
   * Quality: **Normal**
   * Raft but no supports
+
+**Note:** the disassembled image illustrates the part orientation for 3D printing (i.e. which face contacts the bed).

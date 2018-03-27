@@ -1,9 +1,9 @@
-# Analog Push Button
+# Toggle Switch
 <br>
 
 ## 3D Model
 
-[**Download 3D model here**](http://a360.co/2FnV1pF)
+[**Download 3D Model Type A**](http://a360.co/2FnV1pF)
 
 <br>
 
@@ -12,8 +12,6 @@
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
 | ![Toggle Switch](ToggleSwitch_Assembled.png) | ![Toggle Switch](ToggleSwitch_Assembled.png) | ![Toggle Switch](X_ToggleSwitch.png) |
-
-**Note:** the disassembled image also illustrates the part orientation for 3D printing (i.e. which face contacts the bed).
 
 <br>
 
@@ -36,3 +34,5 @@
   * Infill: **15%**
   * Quality: **Normal**
   * Raft but no supports
+
+**Note:** the disassembled image illustrates the part orientation for 3D printing (i.e. which face contacts the bed).
