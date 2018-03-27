@@ -11,7 +11,7 @@
 
 | Assembled | Disassembled | Cross Section |
 | --- | --- | --- |
-| ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](X_AnalogPush.png) |
+| ![Analog Push Button](AnalogPush_Assembled.png) | ![Analog Push Button](AnalogPush_Disassembled.png) | ![Analog Push Button](X_AnalogPush.png) |
 
 <br>
 
