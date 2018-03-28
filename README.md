@@ -17,6 +17,8 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 | **Mechamagnets: Digital Design and Fabrication pipeline** | [![Mechamagnets: Digital Design and Fabrication pipeline](https://i.vimeocdn.com/video/690320565_200x150.webp)](https://vimeo.com/261341817) |
 | **Mechamagnets: Designing and Fabricating a Physical Input Device** | [![Mechamagnets: Designing and Fabrication a Physical Input Device](https://i.vimeocdn.com/video/690320654_200x150.webp)](https://vimeo.com/261341959) |
 
+<br><br>
+
 ## Folders
 
 | Folder | Description | Contents
