@@ -25,6 +25,7 @@ _A 3D printed controller comprised of two momentary push buttons and a rotary in
 | <br>**_Magnets_** | | |
 | _Buttons_<br>1/8 x 1/8 Inch Neodymium Rare Earth Cylinder Magnets | 8 | [Total Element](https://totalelement.com/collections/cylinder-magnets/products/1-8-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-100-pack) |
 | _Wheel_<br>1/8 x 1/16 Inch Neodymium Rare Earth Cylinder Magnets | 20 | [Total Element](https://totalelement.com/collections/all-discs/products/1-8-x-1-16-inch-neodymium-rare-earth-disc-magnets-n48-250-pack) |
+| _Knob center (to sense rotation via Hall effect)_<br>1/8 x 1/8 Inch Neodymium Rare Earth Cylinder Magnets | 1 | [Total Element](https://totalelement.com/collections/cylinder-magnets/products/1-8-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-100-pack) |
 | _Knob option 1_<br>1/8 x 1/8 Inch Neodymium Rare Earth Cylinder Magnets | 1+ | [Total Element](https://totalelement.com/collections/cylinder-magnets/products/1-8-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-100-pack) |
 | _Knob option 2_<br>3mm Diameter Chrome Steel Bearing Balls | 1+ | [Amazon](https://www.amazon.com/gp/product/B004YL4782) |
 | <br>**_Electronics_** | | |
