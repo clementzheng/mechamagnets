@@ -28,8 +28,8 @@ _A 3D printed controller comprised of two momentary push buttons and a rotary in
 | _Knob option 1_<br>1/8 x 1/8 Inch Neodymium Rare Earth Cylinder Magnets | 1+ | [Total Element](https://totalelement.com/collections/cylinder-magnets/products/1-8-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-100-pack) |
 | _Knob option 2_<br>3mm Diameter Chrome Steel Bearing Balls | 1+ | [Amazon](https://www.amazon.com/gp/product/B004YL4782) |
 | <br>**_Electronics_** | | |
-| Linear Hall Effect Sensor Single Axis | 4 | [Digikey](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=256163689&uq=636577817741922875) |
-| 4 Channel Analog to Digital Converter I2C Board | 1 | [Digikey](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=256163686&uq=636577817741932875) |
+| Linear Hall Effect Sensor Single Axis A1324LUA-T | 4 | [Digikey](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=256163689&uq=636577817741922875) |
+| 4 Channel 10 Bit Analog to Digital Converter I2C Board | 1 | [Digikey](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=256163686&uq=636577817741932875) |
 | TRRS Breakout | 2 | [Digikey](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=256163687&uq=636577817741932875) |
 | TRRS Male-to-male Cable | 2 | [Amazon](https://www.amazon.com/gp/product/B01MU3TY2O) |
 | Arduino-based Microcontroller with USB Serial<br>⚠️ _only one microcontroller is required for both controllers_  | 1 | [Arduino](https://store.arduino.cc/usa/arduino-micro) |
