@@ -3,6 +3,12 @@
 These different swatches attempt to replicate the look, feel and function of existing input mechanisms. They are currently customizable as [Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) parametric models. Each folder contains the STL files for 3D printing and its corresponding bill of materials and settings.
 <br><br><br>
 
+## Video
+
+[![Mechamagnets: Exploring Tactile Physical Interfaces](https://i.vimeocdn.com/video/691555668_200x150.webp)](https://vimeo.com/262315435)
+
+<br><br>
+
 ## Swatch List
 
 | Links (Model/Repo) | Assembled | Disassembled | Cross Section |
