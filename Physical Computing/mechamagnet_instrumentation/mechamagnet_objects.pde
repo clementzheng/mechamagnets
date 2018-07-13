@@ -17,6 +17,7 @@ class MMButton {
   float min = 0, max = 1023;
   float threshold = 0; //between 0 - 1
   float[] val = new float[data_history_size];
+  float threshold_val;
 
   float x, y, w, h;
   color val_color = color(#FF0000, 255);
@@ -62,6 +63,7 @@ class MMButton {
       row.setFloat("max", max);
       saveTable(table, "data/"+name+"_MMButton.csv");
     }
+    threshold_val = (max-min)*threshold + min;
   }
 
   void update(float[] v) {
@@ -88,6 +90,7 @@ class MMButton {
       min = min > val[i] ? val[i] : min;
       max = max < val[i] ? val[i] : max;
     }
+    threshold_val = (max-min)*threshold + min;
     TableRow row = table.getRow(0);
     row.setFloat("min", min);
     row.setFloat("max", max);
@@ -216,7 +219,7 @@ class MMKnob {
         val[0] = new PVector(v[serial_index[0]], v[serial_index[1]]);
       }
     }
-    angle = atan2(val[0].y - center_point.y, val[0].x - center_point.x);
+    angle = atan2(val[0].y - center_point.y, val[0].x - center_point.x) - angle_offset;
 
     calibrate_button.update();
     if (calibrate_button.click()) {
@@ -288,8 +291,8 @@ class MMKnob {
       }
     }
     stroke(angle_color);
-    float xend = x + d/2 + d/2*cos(angle-angle_offset);
-    float yend = y + d/2 + d/2*sin(angle-angle_offset);
+    float xend = x + d/2 + d/2*cos(angle);
+    float yend = y + d/2 + d/2*sin(angle);
     line(x+d/2, y+d/2, xend, yend);
     stroke(line_color);
     noFill();
