@@ -5,7 +5,7 @@ These different swatches attempt to replicate the look, feel and function of exi
 
 ## Video
 
-[![Mechamagnets: Exploring Tactile Physical Interfaces](https://i.vimeocdn.com/video/691555668_200x150.webp)](https://vimeo.com/262315435)
+[![Mechamagnets: Exploring Haptic Physical Interfaces](https://i.vimeocdn.com/video/691555668_200x150.webp)](https://vimeo.com/262315435)
 
 <br><br>
 

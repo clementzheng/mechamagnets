@@ -1,7 +1,7 @@
 <img src="Misc%20Assets/header.png" width="100%">
 
 # Mechamagnets
-## A technique for rapid prototyping tactile and functional physical interactive systems, via desktop FDM printing and embedded magnets.
+## A technique for rapid prototyping haptic and functional physical interactive systems, via desktop FDM printing and embedded magnets.
 
 _**NOTE** this is a work in progress that is undergoing heavy editing.<br>For questions and feedback, please contact Clement at clement.zheng@colorado.edu._
 <br><br><br>
@@ -14,7 +14,7 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 ## Videos
 | Video | Link |
 | --- | --- |
-| **Mechamagnets: Exploring Tactile Physical Interfaces** | [![Mechamagnets: Exploring Tactile Physical Interfaces](https://i.vimeocdn.com/video/691555668_200x150.webp)](https://vimeo.com/262315435) |
+| **Mechamagnets: Exploring Haptic Physical Interfaces** | [![Mechamagnets: Exploring Haptic Physical Interfaces](https://i.vimeocdn.com/video/691555668_200x150.webp)](https://vimeo.com/262315435) |
 | **Mechamagnets: Digital Design and Fabrication Pipeline** | [![Mechamagnets: Digital Design and Fabrication Pipeline](https://i.vimeocdn.com/video/690320565_200x150.webp)](https://vimeo.com/261341817) |
 | **Mechamagnets: Designing and Fabricating a Physical Input Device** | [![Mechamagnets: Designing and Fabrication a Physical Input Device](https://i.vimeocdn.com/video/690320654_200x150.webp)](https://vimeo.com/261341959) |
 
@@ -37,12 +37,12 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 
 ## Work in progress
 
-* **Customizable Tactile Swatches**
-  - Swatches with variable tactile reponses.
+* **Customizable Haptic Swatches**
+  - Swatches with variable Haptic reponses.
 * **Physical computing kit**
   - Developing a useful and scalable physical computing kit for the Mechamagnets technique.
-* **Tactile characterization for Mechamagnets**
-  - Characterization of different embedded magnet configurations and their impact on mechanical and perceptual tactile feedback.
+* **Haptic characterization for Mechamagnets**
+  - Characterization of different embedded magnet configurations and their impact on kinesthetic haptic feedback.
   - Parameters: 
     - distance between
     - incident angle
