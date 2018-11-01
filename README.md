@@ -27,6 +27,7 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 | [**Existing Mechanism Swatches**](Existing%20Mechanism%20Swatches) | _Initial exploration replicating existing physical input mechanisms_ | STL Files, cross-section diagrams, bill of materials |
 | [**Examples**](Examples) | _Purposeful design case studies integrating all aspects of Mechamagnets_ | STL Files, bill of materials, electronic schematics, code |
 | [**Physical Computing**](Physical%20Computing) | _Development of physical computing tools and platforms for Mechamagnets_ | Bill of materials, electronic schematics, code |
+| [**Taxonomy**](Taxonomy) | _Basic building blocks of Mechamagnet inputs_ | STL Files, Fusion 360 models |
 
 <br><br>
 
