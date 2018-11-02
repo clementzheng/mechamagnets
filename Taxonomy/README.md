@@ -15,7 +15,7 @@ Mass-produced physical inputs typically employ injection molding and automated a
 
 ## Haptic Mechanisms
 
-Commercial inputs rely on an assembly of different components to deliver haptic feedback and mechanical behavior. For instance, a mechanical keyboard button uses contact leaves to generate a “click” when it is pressed (haptic feedback), and a spring to push it back to its original position (mechanical behavior). In Mechamagnets, we investigated using only static magnets and 3D printing (Figure 2 bottom) to specify different unpowered haptic feedback as well as mechanical behaviors of inputs.
+Commercial inputs rely on an assembly of different components to deliver haptic feedback and mechanical behavior. For instance, a mechanical keyboard button uses contact leaves to generate a “click” when it is pressed (haptic feedback), and a spring to push it back to its original position (mechanical behavior). In Mechamagnets, we investigated using only static magnets and 3D printing to specify different unpowered haptic feedback as well as mechanical behaviors of inputs.
 
 ![haptic mechanisms](hapticmechanisms.png)
 

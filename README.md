@@ -34,19 +34,3 @@ _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Pro
 ## Example: Momentary Push Button
 
 ![Case study schematic](Misc%20Assets/example_schematic.png)
-
-
-## Work in progress
-
-* **Customizable Haptic Swatches**
-  - Swatches with variable Haptic reponses.
-* **Physical computing kit**
-  - Developing a useful and scalable physical computing kit for the Mechamagnets technique.
-* **Haptic characterization for Mechamagnets**
-  - Characterization of different embedded magnet configurations and their impact on kinesthetic haptic feedback.
-  - Parameters: 
-    - distance between
-    - incident angle
-    - separation between
-    - magnet strength
-    - magnet shape
