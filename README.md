@@ -10,7 +10,7 @@ _**NOTE** this is a work in progress that is undergoing heavy editing.<br>For qu
 
 _Mechamagnets: Tactile Mechanisms with Embedded Magnets_<br>TEI 2018 Work In Progress <br>https://doi.org/10.1145/3173225.3173268
 <br><br>
-_Mechamagnets: Designing and Fabricating Haptic and Functional Physical Inputs with Embedded Magnets<br>TEI 2019
+_Mechamagnets: Designing and Fabricating Haptic and Functional Physical Inputs with Embedded Magnets_<br>TEI 2019
 <br><br><br>
 
 ## Videos
